@@ -1,0 +1,2 @@
+# project-c
+bid(auction)
